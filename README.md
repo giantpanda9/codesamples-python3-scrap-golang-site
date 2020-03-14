@@ -27,4 +27,4 @@ On Ubuntu Ubuntu 18.04.4 LTS
 3) python3 PythonToGo.py test_error to run the example with error from goprograms
 # Notes
 1) examples loacated in goprograms folder
-2) please do not write comaplex and huge Go lang progarams, since the scrapper using the Playground from Go lang site, to spare some resources there for others
+2) please do not write comaplex and huge Go lang progarams, since the scrapper using the Playground from Go lang site, to spare some resources there for others and for the site itself
