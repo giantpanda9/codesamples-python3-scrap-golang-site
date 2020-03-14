@@ -24,7 +24,7 @@ On Ubuntu Ubuntu 18.04.4 LTS
 # How to run?
 1) python3 PythonToGo.py to display help
 2) python3 PythonToGo.py test to run the example from goprograms folder or your own Go program
-3) python3 PythonToGo.py test to run the example with error from goprograms
+3) python3 PythonToGo.py test_error to run the example with error from goprograms
 # Notes
 1) examples loacated in goprograms folder
 2) please do not write comaplex and huge Go lang progarams, since the scrapper using the Playground from Go lang site, to spare some resources there for others
