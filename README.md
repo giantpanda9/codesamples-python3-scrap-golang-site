@@ -5,6 +5,7 @@ Python script attempt to scrap Playground page from Golang site https://play.gol
 using the test programs located in goprograms folder. 
 # Purpose
 To demonstrate the ability to create Web site scrapping scripts on Python 3.x using Selenium
+To honour another Great progrmming language - Go - https://golang.org/
 # Requirements
 Python 3.x - Python 3.6 recommended
 Selenium, Chrome WebDriver
@@ -27,4 +28,5 @@ On Ubuntu Ubuntu 18.04.4 LTS
 3) python3 PythonToGo.py test_error to run the example with error from goprograms
 # Notes
 1) examples loacated in goprograms folder
+2) do not - not under any circumstances - attempt to DDoS https://golang.org/ site or any other site related to GoLang using this script
 2) please do not write comaplex and huge Go lang progarams, since the scrapper using the Playground from Go lang site, to spare some resources there for others and for the site itself
