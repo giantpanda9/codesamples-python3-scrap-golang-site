@@ -23,9 +23,9 @@ On Ubuntu Ubuntu 18.04.4 LTS
 10) [in Terminal] cd /usr/bin
 11) [in Terminal] chmod a+x chromedriver
 # How to run?
-1) python3 PythonToGo.py to display help
-2) python3 PythonToGo.py test to run the example from goprograms folder or your own Go program
-3) python3 PythonToGo.py test_error to run the example with error from goprograms
+1) `python3 PythonToGo.py` to display help
+2) `python3 PythonToGo.py test` to run the example from goprograms folder or your own Go program
+3) `python3 PythonToGo.py test_error` to run the example with error from goprograms
 # Notes
 1) examples loacated in goprograms folder
 2) do not - not under any circumstances - attempt to DDoS https://golang.org/ site or any other site related to GoLang using this script
